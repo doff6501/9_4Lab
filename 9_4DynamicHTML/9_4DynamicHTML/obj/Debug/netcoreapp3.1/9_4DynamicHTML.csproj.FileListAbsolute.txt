@@ -1,0 +1,11 @@
+D:\Users\sdoff\source\repos\9_4DynamicHTML\9_4DynamicHTML\bin\Debug\netcoreapp3.1\9_4DynamicHTML.exe
+D:\Users\sdoff\source\repos\9_4DynamicHTML\9_4DynamicHTML\bin\Debug\netcoreapp3.1\9_4DynamicHTML.deps.json
+D:\Users\sdoff\source\repos\9_4DynamicHTML\9_4DynamicHTML\bin\Debug\netcoreapp3.1\9_4DynamicHTML.runtimeconfig.json
+D:\Users\sdoff\source\repos\9_4DynamicHTML\9_4DynamicHTML\bin\Debug\netcoreapp3.1\9_4DynamicHTML.runtimeconfig.dev.json
+D:\Users\sdoff\source\repos\9_4DynamicHTML\9_4DynamicHTML\bin\Debug\netcoreapp3.1\9_4DynamicHTML.dll
+D:\Users\sdoff\source\repos\9_4DynamicHTML\9_4DynamicHTML\bin\Debug\netcoreapp3.1\9_4DynamicHTML.pdb
+D:\Users\sdoff\source\repos\9_4DynamicHTML\9_4DynamicHTML\obj\Debug\netcoreapp3.1\9_4DynamicHTML.csprojAssemblyReference.cache
+D:\Users\sdoff\source\repos\9_4DynamicHTML\9_4DynamicHTML\obj\Debug\netcoreapp3.1\9_4DynamicHTML.AssemblyInfoInputs.cache
+D:\Users\sdoff\source\repos\9_4DynamicHTML\9_4DynamicHTML\obj\Debug\netcoreapp3.1\9_4DynamicHTML.AssemblyInfo.cs
+D:\Users\sdoff\source\repos\9_4DynamicHTML\9_4DynamicHTML\obj\Debug\netcoreapp3.1\9_4DynamicHTML.dll
+D:\Users\sdoff\source\repos\9_4DynamicHTML\9_4DynamicHTML\obj\Debug\netcoreapp3.1\9_4DynamicHTML.pdb
